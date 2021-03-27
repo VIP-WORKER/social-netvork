@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/VIP-WORKER/social-netvork.git/static/css/main.bd499d8f.chunk.css",
+    "main.js": "/VIP-WORKER/social-netvork.git/static/js/main.845acb83.chunk.js",
+    "main.js.map": "/VIP-WORKER/social-netvork.git/static/js/main.845acb83.chunk.js.map",
+    "runtime-main.js": "/VIP-WORKER/social-netvork.git/static/js/runtime-main.40d2bab5.js",
+    "runtime-main.js.map": "/VIP-WORKER/social-netvork.git/static/js/runtime-main.40d2bab5.js.map",
+    "static/js/2.4848b428.chunk.js": "/VIP-WORKER/social-netvork.git/static/js/2.4848b428.chunk.js",
+    "static/js/2.4848b428.chunk.js.map": "/VIP-WORKER/social-netvork.git/static/js/2.4848b428.chunk.js.map",
+    "static/css/3.0683fa29.chunk.css": "/VIP-WORKER/social-netvork.git/static/css/3.0683fa29.chunk.css",
+    "static/js/3.4c39ced6.chunk.js": "/VIP-WORKER/social-netvork.git/static/js/3.4c39ced6.chunk.js",
+    "static/js/3.4c39ced6.chunk.js.map": "/VIP-WORKER/social-netvork.git/static/js/3.4c39ced6.chunk.js.map",
+    "static/css/4.a1d5d0fb.chunk.css": "/VIP-WORKER/social-netvork.git/static/css/4.a1d5d0fb.chunk.css",
+    "static/js/4.0a64b0f4.chunk.js": "/VIP-WORKER/social-netvork.git/static/js/4.0a64b0f4.chunk.js",
+    "static/js/4.0a64b0f4.chunk.js.map": "/VIP-WORKER/social-netvork.git/static/js/4.0a64b0f4.chunk.js.map",
+    "static/js/5.ad0ad448.chunk.js": "/VIP-WORKER/social-netvork.git/static/js/5.ad0ad448.chunk.js",
+    "static/js/5.ad0ad448.chunk.js.map": "/VIP-WORKER/social-netvork.git/static/js/5.ad0ad448.chunk.js.map",
+    "index.html": "/VIP-WORKER/social-netvork.git/index.html",
+    "static/css/3.0683fa29.chunk.css.map": "/VIP-WORKER/social-netvork.git/static/css/3.0683fa29.chunk.css.map",
+    "static/css/4.a1d5d0fb.chunk.css.map": "/VIP-WORKER/social-netvork.git/static/css/4.a1d5d0fb.chunk.css.map",
+    "static/css/main.bd499d8f.chunk.css.map": "/VIP-WORKER/social-netvork.git/static/css/main.bd499d8f.chunk.css.map",
+    "static/js/2.4848b428.chunk.js.LICENSE.txt": "/VIP-WORKER/social-netvork.git/static/js/2.4848b428.chunk.js.LICENSE.txt",
+    "static/media/Rolling-1s-200px.e4a076dd.svg": "/VIP-WORKER/social-netvork.git/static/media/Rolling-1s-200px.e4a076dd.svg",
+    "static/media/bellicon.e3d33e42.png": "/VIP-WORKER/social-netvork.git/static/media/bellicon.e3d33e42.png",
+    "static/media/messages-icon.b2c878a3.png": "/VIP-WORKER/social-netvork.git/static/media/messages-icon.b2c878a3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40d2bab5.js",
+    "static/js/2.4848b428.chunk.js",
+    "static/css/main.bd499d8f.chunk.css",
+    "static/js/main.845acb83.chunk.js"
+  ]
+}
